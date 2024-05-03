@@ -51,7 +51,7 @@ async def decay(ctx, object = ""):
 
 
 
-bot.run("MTIwMDQxNDQ3ODU1NTE2ODc2OQ.GXigm8.-atGR0zguREv8yeCRcJTiBs8FghCxEC2P6L67s")
+bot.run("token")
 
 
 
